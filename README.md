@@ -15,3 +15,19 @@ this repository contains github files
 ***both bold and italic type of fonts***
 
 [Google].(http://engineering.apssdc.in/register/)
+
+![nature](https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Shaqi_jrvej.jpg/1200px-Shaqi_jrvej.jpg)
+
+![music](https://image.shutterstock.com/image-vector/music-note-design-element-doodle-260nw-616470641.jpg) 
+
+* Fruits
+  * mango
+  * apple 
+
+1. Vegetables
+    1. Onion
+    2. potato
+
+Table 1 |Table 2
+--------|----------
+Name|Roll no
